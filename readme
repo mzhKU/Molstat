@@ -1,7 +1,10 @@
 18.05.2012
 Study of Diffusion: Molstat exam project.
+<<<<<<< HEAD
 
 # Forces generation
 python c:\Python26\Scripts\f2py.py -c --fcompiler=gnu95 --compiler=mingw32 -m forces forces.f
 
 master
+=======
+>>>>>>> ba2c92f58e7e399401d4bc1fa4e8d2a277123841
